@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaby Costilla</h1>
 <h3 align="center">a very Autistic Backend developer (i'm really full stack)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabycostilla&label=Profile%20views&color=0e75b6&style=flat" alt="gabycostilla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabycostilla" alt="gabycostilla" /></a> </p>
-
 - 🌱 I’m currently learning **java,reactjs**
 
 - 💬 Ask me about **js,c++,c#,p5js,c**
@@ -23,4 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabycostilla&show_icons=true&locale=en&layout=compact" alt="gabycostilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabycostilla&show_icons=true&locale=en" alt="gabycostilla" /></p>
+
 
