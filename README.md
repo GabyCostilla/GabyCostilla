@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java,reactjs**
 
-- 👯 I’m looking to collaborate on [Juego-de-memoria](https://github.com/Fabrikpz/Juego-de-memoria)
+- 💻 I’m looking to collaborate on [Mindustry](https://github.com/Anuken/Mindustry)
 
 - 💬 Ask me about **js,c++,c#,p5js,c**
 
