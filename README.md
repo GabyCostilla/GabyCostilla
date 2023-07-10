@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaby Costilla</h1>
-<h3 align="center">a very Autistic Backend developer (i'm really full stack)</h3>
+<h3 align="center">a very enthusiastic Backend developer (i'm really full stack)</h3>
 
 - 🌱 I’m currently learning **java,reactjs**
+
+- 👯 I’m looking to collaborate on [Juego-de-memoria](https://github.com/Fabrikpz/Juego-de-memoria)
 
 - 💬 Ask me about **js,c++,c#,p5js,c**
 
@@ -19,5 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabycostilla&show_icons=true&locale=en&layout=compact" alt="gabycostilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabycostilla&show_icons=true&locale=en" alt="gabycostilla" /></p>
-
 
