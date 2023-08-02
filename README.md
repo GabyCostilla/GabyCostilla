@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabygamer2hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabygamer2hello" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel agustin costilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel agustin costilla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel agustin costilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GABRIEL AGUSTIN COSTILLA" height="30" width="40" /></a>
 <a href="https://instagram.com/gabnzana_en_compota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabnzana_en_compota" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gabygamer2hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gabygamer2hello" height="30" width="40" /></a>
 </p>
